@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VOA</string>
+    <string name="copy_right">作者：seliote\n联系QQ：1466651240\n欢迎Bug反馈与更新建议\n内容来源于网络\n侵删\n\n\n\n当前版本：Beta 0.1</string>
+    <string name="network_close">网络未连接(o◕∀◕)ﾉ请稍后下拉刷新(╭￣3￣)╭♡</string>
+</resources>

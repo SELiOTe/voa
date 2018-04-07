@@ -1,0 +1,4 @@
+版本：Beta 0.1
+1，ArticleActivity页面缓冲问题，MediaPlayer在UI线程中prepare()会造成线程阻塞，用户打开过于缓慢；
+2，刷新SeekBar的线程结束的一点都不优雅；
+3，SeekBar的进度到达最大后，刷新进度条的线程结束，向回拉进度条，正在播放的位置将无法更新；
